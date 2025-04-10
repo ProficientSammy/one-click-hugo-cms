@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "The Joy of Growing Tomatoes"
+subtitle: Explore, plant, and enjoy the magic of homegrown tomatoes
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Tomatoes?
+    text: "Tomatoes are more than just a kitchen staple — they’re a passion project. From juicy heirlooms to sweet cherry varieties, each tomato has its own flavor, story, and growing style. My journey started in a small garden, and today, I’m experimenting with different varieties and techniques to grow the tastiest tomatoes possible right here in Ottawa."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "What I Grow"
+    text: "Whether you’re new to gardening or a seasoned grower, I hope to share my experiences, tips, and lessons learned from growing tomatoes in various soil types and conditions. It’s not just about the harvest — it’s about the joy of watching something thrive under your care."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: /img/illustrations-tomato-varieties.svg
+      text: "From beefsteak to cherry, roma to yellow pear — I grow a range of tomato varieties to test flavor, resilience, and growth habits. Follow along for updates, tips, and reviews on each type."
+    - image: /img/illustrations-garden-tools.svg
+      text: "I use simple but effective tools and organic techniques for planting, pruning, and supporting the plants. I’ll be sharing my setup, must-have tools, and the little hacks that make a big difference."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: My Philosophy
+    text: Growing tomatoes isn’t just about food — it’s about patience, learning, and connection. Each plant tells a story. By sharing my experiences, I hope to inspire others to start growing and connect more deeply with what they eat and how it’s made.
 ---
-
