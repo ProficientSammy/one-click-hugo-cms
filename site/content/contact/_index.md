@@ -3,17 +3,23 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "42 Aconitum Way, Ottawa, Ontario"
+  - heading: Contact Number
+    text: "+1 (613) 323-4471"
+  - heading: Garden Hours
+    text: "Monday – Saturday: 8AM – 6PM | Closed on Sundays"
 ---
+We’d love to connect with fellow tomato enthusiasts! Whether you’re just getting started with planting or you’ve got your own secret sauce recipe — we’d love to hear from you.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+<h3 class="f4 b lh-title mb2">Got questions about tomatoes?</h3>
+Use the form below if you want to:
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+Learn more about the different varieties we’re growing
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Ask for tips on starting your own tomato garden
+
+Visit our backyard garden in Ottawa
+
+Or just say hi!
+
+Your curiosity keeps our tomatoes growing 🍅🌿
