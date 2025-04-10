@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "42 Aconitum Way, Ottawa, Ontario"
   - heading: Contact Number
-    text: "+1 (613) 323-4471"
+    text: "+1 (613) 323-4471
 "
 ---
 We’d love to connect with fellow tomato enthusiasts! Whether you’re just getting started with planting or you’ve got your own secret sauce recipe — we’d love to hear from you.
